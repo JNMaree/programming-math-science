@@ -1,6 +1,6 @@
 # Programming, Math, Science
 
-This is a list of links to different freely available learning resources about computer programming, math, and science.
+A list of links to multiple freely-available learning resources about computer programming, math, and science.
 
 ## Table of contents
 
