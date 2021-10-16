@@ -20,6 +20,7 @@ A list of links to multiple freely-available learning resources about computer p
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Math](#math)
+  * [Algebra](#algebra)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Physics](#physics)
@@ -44,7 +45,7 @@ A list of links to multiple freely-available learning resources about computer p
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
 * [Version control tools](#version-control-tools)
-* [Virtual machines](#virtual-machines)
+* [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Web programming](#web-programming)
 * [Other](#other)
 
@@ -60,9 +61,11 @@ A list of links to multiple freely-available learning resources about computer p
 
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
-* [Machine Learning Engineering Book](http://www.mlebook.com/wik) by *Andriy Burkov*
+* [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
+
+* [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
@@ -80,10 +83,11 @@ A list of links to multiple freely-available learning resources about computer p
 
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
+* [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) by *Victor Eijkhout* with *Edmond Chow* and *Robert van de Geijn*
+
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
 
-* [Problem Solving with Algorithms and
-Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
 
 ## Command line and tools
 
@@ -173,6 +177,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
+* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
+
 ## Cryptography
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
@@ -194,6 +200,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Game Programming
+
+* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
@@ -217,8 +225,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
-* [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
-
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof), Third Edition by *Richard Hammack*
@@ -229,17 +235,25 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
 
+* [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
+
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
-
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
-
-* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
+
+### Algebra
+
+* [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
+
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
+
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
+
+* [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 ## Multithreading and Concurrency
 
@@ -259,6 +273,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 ## Physics
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
+
+* [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
 * [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
 
@@ -315,6 +331,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ### Go
 
+* [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go) by *Jan Newmarch*
+
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
 ### Haskell
@@ -346,6 +364,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
 
 ### Regular expressions
+ 
+* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
 
 * [RegexOne](https://regexone.com)
 
@@ -391,7 +411,7 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) by *Kevin M. Lynch* and *Frank C. Park*
 
-* [Underactuated Robotics]() by *Russ Tedrake*
+* [Underactuated Robotics](https://underactuated.mit.edu/) by *Russ Tedrake*
 
 ## Text editors
 
@@ -405,9 +425,11 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
-## Virtual machines
+## Emulators and Virtual Machines
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
+
+* [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
 ## Web programming
 
@@ -419,18 +441,20 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Beej's Guides](http://beej.us/guide)
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
-
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/) by *Ian Wienand*
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
-
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
+
+## Other lists
+
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
+
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
